@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category  Module
+ * @package   MagentoGarage_Base
+ * @author    Aman Srivastava <aman.srivastava@live.com>
+ * @copyright Copyright (c) MagentoGarage (http://magentogarage.com)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Config:etc/system_file.xsd">
+    <system>
+        <tab id="magentogarage_base" translate="label" sortOrder="1000">
+            <label>Magento Garage</label>
+        </tab>
+    </system>
+</config>
