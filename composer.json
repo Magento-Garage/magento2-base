@@ -8,5 +8,6 @@
             "email": "credevator@outlook.com"
         }
     ],
+    "license": ["Apache-2.0"],
     "require": {}
 }
